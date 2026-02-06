@@ -1,0 +1,13 @@
+RewriteEngine On
+
+# Redirection de HTTP vers HTTPS
+RewriteCond %{ENV:HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Redirection de sans www vers www
+RewriteCond %{HTTP_HOST} ^francois-kraether\.com [NC]
+RewriteRule ^(.*)$ https://www.francois-kraether.com/$1 [L,R=301]
+
+# Redirection de index.php vers la racine
+RewriteCond %{THE_REQUEST} /index\.php [NC]
+RewriteRule ^(.*)index\.php$ /$1 [L,R=301]

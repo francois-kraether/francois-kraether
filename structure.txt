@@ -1,0 +1,565 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est E8BD-9CF3
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux
+
+09/10/2024  17:18    <DIR>          .
+09/10/2024  17:18    <DIR>          ..
+16/04/2023  08:07    <DIR>          dist
+16/04/2023  08:07    <DIR>          doc
+16/04/2023  08:24    <DIR>          img
+16/04/2023  08:07    <DIR>          package
+16/04/2023  08:07    <DIR>          source
+16/04/2023  08:07    <DIR>          unitegallery
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          css
+16/04/2023  08:07    <DIR>          images
+16/04/2023  08:07    <DIR>          js
+16/04/2023  08:07    <DIR>          skins
+16/04/2023  08:07    <DIR>          themes
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\css
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\images
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\js
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\skins
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          alexis
+16/04/2023  08:07    <DIR>          default
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\skins\alexis
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          images
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\skins\alexis\images
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\skins\default
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\themes
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          carousel
+16/04/2023  08:07    <DIR>          compact
+16/04/2023  08:07    <DIR>          default
+16/04/2023  08:07    <DIR>          grid
+16/04/2023  08:07    <DIR>          slider
+16/04/2023  08:07    <DIR>          tiles
+16/04/2023  08:07    <DIR>          tilesgrid
+16/04/2023  08:07    <DIR>          video
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\themes\carousel
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\themes\compact
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\themes\default
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          images
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\themes\default\images
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\themes\grid
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\themes\slider
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\themes\tiles
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\themes\tilesgrid
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\themes\video
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          images
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\dist\themes\video\images
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\doc
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\img
+
+16/04/2023  08:24    <DIR>          .
+16/04/2023  08:24    <DIR>          ..
+16/03/2022  09:44    <DIR>          1400
+16/04/2023  08:07    <DIR>          carrousel
+16/04/2023  08:07    <DIR>          lan__
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\img\1400
+
+16/03/2022  09:44    <DIR>          .
+16/03/2022  09:44    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\img\carrousel
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\img\lan__
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          images
+16/04/2023  08:07    <DIR>          unitegallery
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\images
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          big
+16/04/2023  08:07    <DIR>          thumbs
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\images\big
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\images\thumbs
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          css
+16/04/2023  08:07    <DIR>          images
+16/04/2023  08:07    <DIR>          js
+16/04/2023  08:07    <DIR>          skins
+16/04/2023  08:07    <DIR>          themes
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\css
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\images
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\js
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\skins
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          alexis
+16/04/2023  08:07    <DIR>          default
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\skins\alexis
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          images
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\skins\alexis\images
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\skins\default
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\themes
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          carousel
+16/04/2023  08:07    <DIR>          compact
+16/04/2023  08:07    <DIR>          default
+16/04/2023  08:07    <DIR>          grid
+16/04/2023  08:07    <DIR>          slider
+16/04/2023  08:07    <DIR>          tiles
+16/04/2023  08:07    <DIR>          tilesgrid
+16/04/2023  08:07    <DIR>          video
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\themes\carousel
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\themes\compact
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\themes\default
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          images
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\themes\default\images
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\themes\grid
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\themes\slider
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\themes\tiles
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\themes\tilesgrid
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\themes\video
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          images
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\package\unitegallery\themes\video\images
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          images
+16/04/2023  08:07    <DIR>          unitegallery
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\images
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          big
+16/04/2023  08:07    <DIR>          thumbs
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\images\big
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\images\thumbs
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          css
+16/04/2023  08:07    <DIR>          images
+16/04/2023  08:07    <DIR>          js
+16/04/2023  08:07    <DIR>          skins
+16/04/2023  08:07    <DIR>          themes
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\css
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\images
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\js
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\skins
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          alexis
+16/04/2023  08:07    <DIR>          default
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\skins\alexis
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          images
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\skins\alexis\images
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\skins\default
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\themes
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          carousel
+16/04/2023  08:07    <DIR>          compact
+16/04/2023  08:07    <DIR>          default
+16/04/2023  08:07    <DIR>          grid
+16/04/2023  08:07    <DIR>          slider
+16/04/2023  08:07    <DIR>          tiles
+16/04/2023  08:07    <DIR>          tilesgrid
+16/04/2023  08:07    <DIR>          video
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\themes\carousel
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\themes\compact
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\themes\default
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          images
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\themes\default\images
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\themes\grid
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\themes\slider
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\themes\tiles
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\themes\tilesgrid
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\themes\video
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          images
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\source\unitegallery\themes\video\images
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\unitegallery
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          images
+16/04/2023  08:07    <DIR>          js
+16/04/2023  08:07    <DIR>          skins
+16/04/2023  08:07    <DIR>          themes
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\unitegallery\images
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\unitegallery\js
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\unitegallery\skins
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          alexis
+16/04/2023  08:07    <DIR>          default
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\unitegallery\skins\alexis
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          images
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\unitegallery\skins\alexis\images
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\unitegallery\skins\default
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\unitegallery\themes
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+16/04/2023  08:07    <DIR>          slider
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\wamp64\www\WEBSITEFK_drapeaux\unitegallery\themes\slider
+
+16/04/2023  08:07    <DIR>          .
+16/04/2023  08:07    <DIR>          ..
+               0 fichier(s)                0 octets
+
+     Total des fichiers list‚sÿ:
+               0 fichier(s)                0 octets
+             239 R‚p(s)  112ÿ782ÿ565ÿ376 octets libres

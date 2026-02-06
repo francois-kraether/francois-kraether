@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /*.pdf$
+Disallow: https://francois-kraether.com/pageFormation/index.html
+
+Sitemap: https://www.francois-kraether.com/sitemap_4451976.xml
