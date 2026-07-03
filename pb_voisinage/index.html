@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Redirection...</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="card">
+
+    <div class="icon">🔒</div>
+
+    <h1>Accès au dossier</h1>
+
+    <p>
+        Vous allez être redirigé automatiquement vers le dossier.
+    </p>
+
+    <div class="countdown">
+        Redirection dans <span id="timer">10</span> secondes...
+    </div>
+
+    <a href="http://kraether.free.fr/pb_voisinage/" class="btn">
+        Accéder immédiatement
+    </a>
+
+</div>
+
+<script>
+
+let secondes = 10;
+
+const timer = document.getElementById("timer");
+
+const interval = setInterval(() => {
+
+    secondes--;
+
+    timer.textContent = secondes;
+
+    if(secondes <= 0){
+
+        clearInterval(interval);
+
+        window.location.href = "http://kraether.free.fr/pb_voisinage/";
+
+    }
+
+},1000);
+
+</script>
+
+</body>
+</html>
