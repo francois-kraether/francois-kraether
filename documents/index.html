@@ -1,0 +1,439 @@
+```html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Documents personnels — Accès sécurisé</title>
+
+    <style>
+        :root {
+            --navy: #17324d;
+            --blue: #2563eb;
+            --blue-hover: #1d4ed8;
+            --text: #1f2937;
+            --muted: #64748b;
+            --border: #dbe3ec;
+            --background: #f4f7fa;
+            --white: #ffffff;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            font-family:
+                "Segoe UI",
+                Inter,
+                -apple-system,
+                BlinkMacSystemFont,
+                Arial,
+                sans-serif;
+
+            background: var(--background);
+            color: var(--text);
+
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* ─────────────────────────────
+           HEADER
+        ───────────────────────────── */
+
+        header {
+            height: 72px;
+            background: var(--white);
+            border-bottom: 1px solid var(--border);
+
+            display: flex;
+            align-items: center;
+        }
+
+        .header-inner {
+            width: 100%;
+            max-width: 1100px;
+            margin: auto;
+            padding: 0 25px;
+
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .brand {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+
+            font-size: 17px;
+            font-weight: 600;
+            color: var(--navy);
+        }
+
+        .brand-icon {
+            width: 36px;
+            height: 36px;
+
+            border-radius: 8px;
+            background: #eaf1f8;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            color: var(--navy);
+            font-size: 18px;
+        }
+
+        .secure-label {
+            font-size: 13px;
+            color: var(--muted);
+        }
+
+        /* ─────────────────────────────
+           MAIN
+        ───────────────────────────── */
+
+        main {
+            flex: 1;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            padding: 50px 20px;
+        }
+
+        .login-card {
+            width: 100%;
+            max-width: 430px;
+
+            background: var(--white);
+
+            border: 1px solid var(--border);
+            border-radius: 12px;
+
+            padding: 42px;
+
+            box-shadow:
+                0 8px 30px rgba(15, 23, 42, 0.06);
+        }
+
+        .title {
+            margin: 0;
+
+            font-size: 25px;
+            font-weight: 650;
+
+            color: var(--navy);
+            letter-spacing: -0.3px;
+        }
+
+        .description {
+            margin: 10px 0 32px;
+
+            color: var(--muted);
+            font-size: 14px;
+            line-height: 1.6;
+        }
+
+        /* ─────────────────────────────
+           FORM
+        ───────────────────────────── */
+
+        label {
+            display: block;
+
+            margin-bottom: 7px;
+
+            font-size: 13px;
+            font-weight: 600;
+
+            color: #334155;
+        }
+
+        .field {
+            margin-bottom: 20px;
+        }
+
+        input {
+            width: 100%;
+
+            height: 46px;
+            padding: 0 13px;
+
+            border: 1px solid #cbd5e1;
+            border-radius: 7px;
+
+            background: #fff;
+
+            color: var(--text);
+            font-size: 15px;
+
+            outline: none;
+
+            transition:
+                border-color 0.15s ease,
+                box-shadow 0.15s ease;
+        }
+
+        input:focus {
+            border-color: var(--blue);
+
+            box-shadow:
+                0 0 0 3px rgba(37, 99, 235, 0.10);
+        }
+
+        /* ─────────────────────────────
+           BUTTON
+        ───────────────────────────── */
+
+        button {
+            width: 100%;
+            height: 46px;
+
+            border: 0;
+            border-radius: 7px;
+
+            background: var(--blue);
+            color: white;
+
+            font-size: 15px;
+            font-weight: 600;
+
+            cursor: pointer;
+
+            transition:
+                background 0.15s ease,
+                transform 0.05s ease;
+        }
+
+        button:hover {
+            background: var(--blue-hover);
+        }
+
+        button:active {
+            transform: translateY(1px);
+        }
+
+        /* ─────────────────────────────
+           SECURITY NOTE
+        ───────────────────────────── */
+
+        .security {
+            margin-top: 27px;
+            padding-top: 20px;
+
+            border-top: 1px solid #edf1f5;
+
+            display: flex;
+            gap: 10px;
+
+            color: var(--muted);
+            font-size: 12px;
+            line-height: 1.5;
+        }
+
+        .security-icon {
+            flex-shrink: 0;
+
+            width: 20px;
+            height: 20px;
+
+            border-radius: 50%;
+
+            background: #edf5ff;
+            color: var(--blue);
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            font-size: 11px;
+            font-weight: bold;
+        }
+
+        #message {
+            min-height: 20px;
+
+            margin-top: 14px;
+
+            font-size: 13px;
+            text-align: center;
+
+            color: #b42318;
+        }
+
+        /* ─────────────────────────────
+           FOOTER
+        ───────────────────────────── */
+
+        footer {
+            padding: 22px;
+
+            text-align: center;
+
+            color: #94a3b8;
+            font-size: 12px;
+        }
+
+        /* ─────────────────────────────
+           MOBILE
+        ───────────────────────────── */
+
+        @media (max-width: 520px) {
+
+            header {
+                height: 64px;
+            }
+
+            .secure-label {
+                display: none;
+            }
+
+            .login-card {
+                padding: 30px 24px;
+            }
+
+            main {
+                padding: 30px 15px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+
+    <div class="header-inner">
+
+        <div class="brand">
+
+            <div class="brand-icon">
+                ▣
+            </div>
+
+            <span>
+                Espace documentaire personnel
+            </span>
+
+        </div>
+
+        <div class="secure-label">
+            Accès sécurisé
+        </div>
+
+    </div>
+
+</header>
+
+
+<main>
+
+    <section class="login-card">
+
+        <h1 class="title">
+            Documents personnels
+        </h1>
+
+        <p class="description">
+            Cet espace est réservé à la consultation de vos
+            documents personnels et informations confidentielles.
+        </p>
+
+
+        <form id="loginForm">
+
+            <div class="field">
+
+                <label for="username">
+                    Identifiant
+                </label>
+
+                <input
+                    type="text"
+                    id="username"
+                    name="username"
+                    autocomplete="username"
+                    required
+                >
+
+            </div>
+
+
+            <div class="field">
+
+                <label for="password">
+                    Mot de passe
+                </label>
+
+                <input
+                    type="password"
+                    id="password"
+                    name="password"
+                    autocomplete="current-password"
+                    required
+                >
+
+            </div>
+
+
+            <button type="submit">
+                Se connecter
+            </button>
+
+            <div id="message"></div>
+
+        </form>
+
+
+        <div class="security">
+
+            <div class="security-icon">
+                ✓
+            </div>
+
+            <div>
+                L'accès aux documents sera protégé par une
+                authentification sécurisée. Les documents ne
+                seront pas stockés directement sur GitHub.
+            </div>
+
+        </div>
+
+    </section>
+
+</main>
+
+
+<footer>
+
+    Espace privé · Accès réservé
+
+</footer>
+
+
+<script>
+
+    document
+        .getElementById("loginForm")
+        .addEventListener("submit", function(event) {
+
+            event.preventDefault();
+
+            document.getElementById("message").textContent =
+                "Le système d'authentification sera configuré prochainement.";
+
+        });
+
+</script>
+
+</body>
+</html>
+```
